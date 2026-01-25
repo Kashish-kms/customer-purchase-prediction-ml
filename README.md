@@ -54,5 +54,12 @@ Target variable: **Whether the customer subscribed to the product (yes/no)**
 
 ---
 
-## 📁 Project Structure
+## ✅ Conclusion
+
+This project successfully demonstrates the application of a Decision Tree Classifier to predict customer purchase behavior using demographic and behavioral data from the Bank Marketing dataset. Through proper data preprocessing, exploratory analysis, and model training, meaningful patterns influencing customer decisions were identified.
+
+The model achieved reliable performance and provided interpretability by highlighting important features that affect purchasing outcomes. This project showcases how machine learning can support data-driven marketing strategies and improve business decision-making.
+
+Future improvements may include experimenting with ensemble models, optimizing hyperparameters, and deploying the model as a web application for real-time predictions.
+
 
